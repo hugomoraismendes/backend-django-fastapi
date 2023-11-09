@@ -1,8 +1,4 @@
-﻿# Módulo Introdutório > Desenvolvimento Backend > Aula 2
-
-## Ambiente Python para desenvolvimento
-
-- Após o download, dentro do [Visual Studio Code](https://code.visualstudio.com/), execute o comando para criar e utilizar o ambiente Python
+Desenvolvimento Backend
 
 Comando para criar o ambiente de desenvolvimento:
 
